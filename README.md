@@ -1,5 +1,8 @@
 # Code.org
-## Computer Scicence in Algebra
+## Computer Science in Algebra
+### [What's Inside](SUMMARY.md)
+
+___ 
 
 * [GitBook - Read](https://janzeteachesit.gitbooks.io/cs-in-algebra/content/)
 * [GitBook - Edit](https://www.gitbook.com/book/janzeteachesit/cs-in-algebra/edit#/edit/master/)
