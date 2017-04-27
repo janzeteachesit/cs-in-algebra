@@ -1,4 +1,2 @@
-# Code.org
-## Comuter Scicence in Algebra
-
+# SUMMARY
 [Course A](coursea.md)
