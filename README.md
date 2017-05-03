@@ -1,4 +1,4 @@
-# [Title]
+# Variables, Loops and Choice! Oh My!
 ## Learning and Teaching Code.org's CS in Algebra
 ### [What's Inside](SUMMARY.md)
 
